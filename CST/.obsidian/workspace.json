@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "638e4ad1fe0c2538",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc42aa160c0edc7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72c4eaa4151f05f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbc0223bef82bc49",
+    "type": "split",
+    "children": [
+      {
+        "id": "5101750c804ec5fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9245b4fbbca939b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "40811ae30ca59ce2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6ace46afad3320fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d6cd17bf831d4ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "0690c44bf08d82f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef4ef785678c060f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "5b144fd3c5972db4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "24b436b091ad8c75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e9a22b1ffbfb7fd2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "931ec5ea80513c79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "432a3971151089fe",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1792477246880-14lp0er",
+                      "conversationId": "conv-1793681498731-8oa7ziv4x"
+                    }
+                  ],
+                  "activeTabId": "tab-1792477246880-14lp0er"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "72c4eaa4151f05f7",
+  "lastOpenFiles": [
+    "EEE103/Mock",
+    "EEE103/新建文件夹",
+    "EEE103/Note",
+    "EEE103/Tutorial/Week_7_Tutorial_Solutions.pdf",
+    "EEE103/Tutorial/Week_7_Tutorial_Solutions.pdf.crdownload",
+    "EEE103/Tutorial/Week 6_Tutorial_solutions.pdf",
+    "EEE103/Tutorial/Week 6_Tutorial_solutions.pdf.crdownload",
+    "EEE103/Tutorial/Week 7_Tutorial Questions.pdf",
+    "EEE103/Tutorial/Week 6_Tutorial_Questions.pdf",
+    "EEE103/Tutorial/Week3_tutorial - questions.pdf",
+    "EEE103/Tutorial/Week_5_Tutorial_Solution.pdf",
+    "CSI101/Module Handbook/de13eb8e3570b3c4c3efcc6b95a5b93a.png",
+    "file:C:/Users/lenovo/Downloads/2026-10-21T10_39_26.805Z.md",
+    "欢迎.md"
+  ]
+}
