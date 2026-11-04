@@ -79,7 +79,8 @@
       ],
       "modelAliases": {},
       "preferredReasoningByModel": {
-        "deepseek:deepseek-official/deepseek-flash": "high"
+        "deepseek:deepseek-official/deepseek-flash": "high",
+        "deepseek:deepseek-official/deepseek-v4-pro": "max"
       },
       "selectedModels": [
         {
@@ -202,7 +203,7 @@
   "inlineEditModel": null,
   "savedProviderModel": {},
   "savedProviderEffort": {
-    "deepseek": "high"
+    "deepseek": "max"
   },
   "savedProviderServiceTier": {},
   "savedProviderPermissionMode": {

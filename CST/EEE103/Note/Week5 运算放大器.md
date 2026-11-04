@@ -120,6 +120,33 @@ $$v_{out}=-\frac{R_f}{R}(v_1+v_2+v_3)$$
 - 多个运放级联，**逐级分析**（前一级输出 = 后一级输入）。
 - 级联可组合出所需输入-输出关系（例：求和 + 反相 → 不反相的求和）。
 
+### 9.1 简单例题 Simple Example：两级反相放大器级联
+
+**电路**：两级反相放大器级联（第一级输出直接接第二级输入）：
+- 级 1：$R_1=10\,\mathrm{k\Omega}$，$R_f=30\,\mathrm{k\Omega}$，输入 $v_{in}=0.5\,\mathrm{V}$；
+- 级 2：$R_1=10\,\mathrm{k\Omega}$，$R_f=20\,\mathrm{k\Omega}$，输入为级 1 的输出。
+
+$$v_{in}\ \longrightarrow\ \boxed{\text{级 1：增益 }-3}\ \xrightarrow{\ v_{out1}\ }\ \boxed{\text{级 2：增益 }-2}\ \longrightarrow\ v_{out}$$
+
+**解 · 逐级分析**（前一级输出 = 后一级输入）：
+
+**级 1**（套反相放大器公式 $v_{out}=-\dfrac{R_f}{R_1}v_{in}$）：
+
+$$v_{out1}=-\frac{30\,\mathrm{k\Omega}}{10\,\mathrm{k\Omega}}\times 0.5\,\mathrm{V}=-3\times 0.5=-1.5\,\mathrm{V}$$
+
+**级 2**（输入为 $v_{out1}$）：
+
+$$v_{out}=-\frac{20\,\mathrm{k\Omega}}{10\,\mathrm{k\Omega}}\times v_{out1}=-2\times(-1.5)=+3\,\mathrm{V}$$
+
+**总增益**（各级增益相乘）：
+
+$$A_{total}=(-3)\times(-2)=+6,\qquad v_{out}=A_{total}\,v_{in}=6\times 0.5=3\,\mathrm{V}$$
+
+> **要点**：
+> 1. 每级**独立**套对应公式——理想运放输入电阻为无穷大，后级不从级 1 索取电流，逐级计算互不干扰。
+> 2. 两级反相 = 同相（负 × 负 = 正）。
+> 3. 总增益 = 各级增益之积。
+
 ---
 
 ## 10. 比较器 Comparator（比较器）
