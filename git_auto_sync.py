@@ -5,7 +5,7 @@ import time
 REPO_PATH = r"D:\CST"        # 你的仓库路径
 COMMIT_MSG = "auto sync: files updated"
 SYNC_INTERVAL = 300          # 同步间隔，单位秒，300=5分钟
-BRANCH = "main"              # 如果你的分支名是master就改成master
+BRANCH = "master"              # 如果你的分支名是master就改成master
 MAX_RETRY = 2                # push失败重试次数
 # ----------------------------------------------------------
 
