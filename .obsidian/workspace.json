@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/CSI101/Note/Lab 教学版 汇编练习.md",
+                "file": "CST/ISA104/Note/ICT 复习笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 教学版 汇编练习"
+              "title": "ICT 复习笔记"
             }
           }
         ],
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.32784271240234
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -225,6 +226,7 @@
   },
   "active": "84ec52a8dcf8fde3",
   "lastOpenFiles": [
+    "CST/CSI101/Note/Lab 教学版 汇编练习.md",
     "CST/CSI101/Note/ICT 知识点梳理.md",
     "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/ISA104/Mock/ISA104 ICT 模拟（20题MCQ+写作模板）.md",
@@ -244,7 +246,6 @@
     "CST/ISA104/Tutorial/Week8_Tutorial.pdf",
     "CST/ISA104/Tutorial/Week8_Tutorial.pdf.crdownload",
     "CST/MTH101/Module Handbook/99fefbc9a0f3fcac89df053668c731ec.png",
-    "CST/CSI101/Note/Lab 教学版 汇编练习.md",
     "CST/ISA104/Module Handbook/ed5361a743d10410138844bc24f0c990.png",
     "CST/CSI101/Mock/CSI101 ICT 模拟卷（填空版）.md",
     "CST/EEE103/Mock/EEE103 期中模拟试卷（英文版）.md",
