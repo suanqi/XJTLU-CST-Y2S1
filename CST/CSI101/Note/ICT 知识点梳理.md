@@ -111,7 +111,7 @@ course: CSI101 Computer Systems
 - 数据全部用 C++ 声明（_asm 块内不能定义 DB/DW/DD）；汇编里直接用 C++ 变量名
 - 注释用 `;` 或 `//`；不区分大小写；Intel 语法 **dest ← src**（从右往左读）
 
-### 3.2 寄存器 General-purpose registers
+### 3.2 通用寄存器 General-purpose registers
 | 寄存器 | 角色 |
 |---|---|
 | EAX | 累加器：运算、返回值 |
