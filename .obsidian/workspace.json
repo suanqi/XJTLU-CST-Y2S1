@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
+                "file": "CST/ISA104/Note/ICT 复习笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOE104 第一次小组会议_项目概要"
+              "title": "ICT 复习笔记"
             }
           }
         ]
@@ -207,10 +207,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "00b1974cee08869f",
+  "active": "201b19be6026e5ae",
   "lastOpenFiles": [
-    "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
+    "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/CSI101/Note/ICT 知识点梳理.md",
     "CST/CSI101/Note/Lab 教学版 汇编练习.md",
     "CST/SOE104/Group Project/How marks are computed.png",
