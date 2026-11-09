@@ -179,14 +179,9 @@
                     {
                       "tabId": "tab-1793686412680-y9reagf",
                       "conversationId": "conv-1793686447962-3a6gevu01"
-                    },
-                    {
-                      "tabId": "tab-1794194872467-rkm0lwd",
-                      "conversationId": "conv-1793686447962-3a6gevu01",
-                      "preview": true
                     }
                   ],
-                  "activeTabId": "tab-1794194872467-rkm0lwd"
+                  "activeTabId": "tab-1793686412680-y9reagf"
                 }
               },
               "icon": "bot",
@@ -198,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 979.5350952148438
+    "width": 506.7281494140625
   },
   "left-ribbon": {
     "hiddenItems": {
