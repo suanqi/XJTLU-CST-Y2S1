@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/ISA104/Note/ICT 复习笔记.md",
+                "file": "CST/CSI101/Note/ICT 知识点梳理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICT 复习笔记"
+              "title": "ICT 知识点梳理"
             }
           }
         ],
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -194,7 +193,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1793686412680-y9reagf",
-                      "conversationId": "conv-1793686447962-3a6gevu01"
+                      "conversationId": "conv-1794214150370-3xq4zcu5r"
                     }
                   ],
                   "activeTabId": "tab-1793686412680-y9reagf"
@@ -209,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,24 +222,26 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "84ec52a8dcf8fde3",
+  "active": "00b1974cee08869f",
   "lastOpenFiles": [
+    "CST/CSI101/Note/Lab 教学版 汇编练习.md",
+    "CST/ISA104/Note/ICT 复习笔记.md",
+    "CST/SOE104/Group Project/How marks are computed.png",
+    "CST/SOE104/Group Project/How to .png",
+    "CST/SOE104/Group Project/2d34ac5f1c9212db7816ae580f1a2ef3.png",
     "CST/SOE104/Group Project/ENGINE_RULES_SPEC.pdf",
     "CST/SOE104/Group Project/API_REFERENCE.pdf",
     "CST/SOE104/Group Project/SOE104-CW2-Tasksheet.pdf",
     "CST/SOE104/Group Project/SOE104-CW2-Tasksheet.pdf.crdownload",
     "CST/SOE104/Group Project",
     "CST/SOE104/新建文件夹",
-    "CST/CSI101/Note/Lab 教学版 汇编练习.md",
     "CST/CSI101/Note/ICT 知识点梳理.md",
-    "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/ISA104/Mock/ISA104 ICT 模拟（20题MCQ+写作模板）.md",
     "CST/ISA104/Mock",
     "CST/ISA104/Note",
     "CST/CSI101/Mock/CSI101 ICT 完整模拟卷（W1-W9）.md",
     "CST/CSI101/Lecture/CSI101-L09 Cache Disk and Viritual Memory.pdf",
     "CST/CSI101/Lecture/CSI101-L09 Cache Disk and Viritual Memory.pdf.crdownload",
-    "git_auto_sync.py",
     "CST/EEE104/Note/EEE104 复习笔记 Part 3 时序电路.md",
     "CST/EEE104/Note/EEE104 复习笔记 Part 2 布尔代数与组合逻辑.md",
     "CST/EEE104/Note/EEE104 复习笔记 Part 1 数制与逻辑门.md",
@@ -263,9 +263,6 @@
     "CST/EEE103/Mock/assets/s_norton.png",
     "CST/EEE103/Mock/assets/s_noninverting.png",
     "CST/EEE103/Mock/assets/s_mesh.png",
-    "CST/EEE103/Mock/assets/s_kvl.png",
-    "CST/EEE103/Mock/assets/s_deltay.png",
-    "_mock_s2/s_pulse.png",
     "_svgrender/node_modules/@resvg/resvg-js-win32-x64-msvc/README.md",
     "_svgrender/node_modules/@resvg/resvg-js/README.md",
     "CST/EEE103/Mock/EEE103 选择题模拟卷（中文版）.md",
