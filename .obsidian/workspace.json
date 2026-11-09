@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/CSI101/Note/ICT 知识点梳理.md",
+                "file": "CST/CSI101/Note/Lab 教学版 汇编练习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICT 知识点梳理"
+              "title": "Lab 教学版 汇编练习"
             }
           }
         ],
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 362.32784271240234
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -226,8 +225,8 @@
   },
   "active": "84ec52a8dcf8fde3",
   "lastOpenFiles": [
-    "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/CSI101/Note/ICT 知识点梳理.md",
+    "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/ISA104/Mock/ISA104 ICT 模拟（20题MCQ+写作模板）.md",
     "CST/ISA104/Mock",
     "CST/ISA104/Note",
