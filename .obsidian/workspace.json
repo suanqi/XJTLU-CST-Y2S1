@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "ICT 知识点梳理"
             }
+          },
+          {
+            "id": "84ec52a8dcf8fde3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CST/ISA104/Note/ICT 复习笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ICT 复习笔记"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +222,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9709d96fd16ed2df",
+  "active": "84ec52a8dcf8fde3",
   "lastOpenFiles": [
+    "CST/CSI101/Note/ICT 知识点梳理.md",
+    "CST/ISA104/Mock/ISA104 ICT 模拟（20题MCQ+写作模板）.md",
+    "CST/ISA104/Mock",
     "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/ISA104/Note",
     "CST/CSI101/Mock/CSI101 ICT 完整模拟卷（W1-W9）.md",
@@ -224,12 +242,10 @@
     "CST/EEE104/Lecture/EEE104_Lecture_07.pdf",
     "CST/ISA104/Tutorial/Week8_Tutorial.pdf",
     "CST/ISA104/Tutorial/Week8_Tutorial.pdf.crdownload",
-    "CST/ISA104/Tutorial/sample essay.pdf",
     "CST/MTH101/Module Handbook/99fefbc9a0f3fcac89df053668c731ec.png",
     "CST/CSI101/Note/Lab 教学版 汇编练习.md",
     "CST/ISA104/Module Handbook/ed5361a743d10410138844bc24f0c990.png",
     "CST/CSI101/Mock/CSI101 ICT 模拟卷（填空版）.md",
-    "CST/CSI101/Note/ICT 知识点梳理.md",
     "CST/EEE103/Mock/EEE103 期中模拟试卷（英文版）.md",
     "CST/EEE103/Mock/EEE103 选择题模拟卷（英文版）.md",
     "CST/EEE103/Note/Week5 运算放大器.md",
@@ -253,7 +269,6 @@
     "CST/EEE103/Note/Week6 电容与电感.md",
     "CST/EEE103/Note/Week4 常用电路分析技巧.md",
     "CST/EEE103/Note/Week3 节点与网孔分析.md",
-    "CST/EEE103/Note/Week2 电压与电流定律.md",
-    "CST/EEE103/Note/00 期中考复习总览.md"
+    "CST/EEE103/Note/Week2 电压与电流定律.md"
   ]
 }
