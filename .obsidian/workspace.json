@@ -184,9 +184,13 @@
                     {
                       "tabId": "tab-1794229282981-spuvyfr",
                       "conversationId": "conv-1794229508793-a3vost8bj"
+                    },
+                    {
+                      "tabId": "tab-1794229710711-09fjpp4",
+                      "conversationId": "conv-1793686447962-3a6gevu01"
                     }
                   ],
-                  "activeTabId": "tab-1794229282981-spuvyfr"
+                  "activeTabId": "tab-1794229710711-09fjpp4"
                 }
               },
               "icon": "bot",
