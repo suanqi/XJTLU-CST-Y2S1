@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -179,9 +180,14 @@
                     {
                       "tabId": "tab-1793686412680-y9reagf",
                       "conversationId": "conv-1794228559734-0nc2aivq4"
+                    },
+                    {
+                      "tabId": "tab-1794229278089-b2uudxz",
+                      "conversationId": "conv-1794228559734-0nc2aivq4",
+                      "preview": true
                     }
                   ],
-                  "activeTabId": "tab-1793686412680-y9reagf"
+                  "activeTabId": "tab-1794229278089-b2uudxz"
                 }
               },
               "icon": "bot",
@@ -193,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.114013671875
+    "width": 647.9561767578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +213,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "201b19be6026e5ae",
+  "active": "00b1974cee08869f",
   "lastOpenFiles": [
     "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
     "CST/ISA104/Note/ICT 复习笔记.md",
