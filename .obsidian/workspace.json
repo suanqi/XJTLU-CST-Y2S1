@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -223,7 +224,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ee99017d428ad852",
+  "active": "84ec52a8dcf8fde3",
   "lastOpenFiles": [
     "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/CSI101/Note/ICT 知识点梳理.md",
