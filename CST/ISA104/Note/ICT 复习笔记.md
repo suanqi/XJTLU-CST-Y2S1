@@ -206,3 +206,207 @@ course: ISA104 AI Application Design
 - [ ] W8：应用五段解剖、语音五模块（ASR/NLU/DM/NLG/TTS + 例子）、创意四阶段（人主导 framing）、六原则、协作四模式
 - [ ] W9：**双钻四阶段 + 方法与产出**、utility vs usability、Nielsen 五要素 vs ISO 三要素、SUS 特性、within/between、carry-over、InterLink 数字
 - [ ] **Part 2 写作**：What/So What/Now What 框架、素材准备（见模拟卷模板）
+
+---
+
+# 附录 · 术语表 Glossary（Lecture + Tutorial 汇总）
+
+> 来源：Week 1–9 讲义 + Week 1/3/5/8 Tutorial 词汇任务。标注 ★ 的为 Tutorial 原词（考试词汇重点）。
+> 格式：**术语** ｜ 中文 ｜ 英文解释（English definition）
+
+## G1 · Week 1 AI 基础（含 Tutorial Week 1 九词 ★）
+
+| 术语 Term | 中文 | English Definition |
+|---|---|---|
+| ★ Artificial Intelligence (AI) | 人工智能 | the simulation of human intelligence processes by machines, particularly computer systems |
+| ★ Machine Learning (ML) | 机器学习 | a subset of AI focused on developing algorithms that enable computers to learn from and make predictions based on data |
+| ★ Deep Learning (DL) | 深度学习 | an advanced subset of ML using artificial neural networks to analyse complex patterns in large datasets |
+| ★ Reinforcement Learning | 强化学习 | a type of learning where an agent makes decisions based on feedback from interactions with an environment, aiming to maximize rewards |
+| ★ Neural Network | 神经网络 | a computing system inspired by the human brain, made up of interconnected nodes (neurons) that process information and learn patterns from data |
+| ★ Generative AI (GenAI) | 生成式人工智能 | a class of AI models designed to generate new content based on existing data |
+| ★ Discriminative Model | 判别式模型 | a model trained to classify or label existing data rather than generate new data |
+| ★ Prompting | 提示（技巧） | a technique in generative AI where users provide natural language instructions to guide the output generation |
+| ★ Natural Language | 自然语言 | the language humans use for everyday communication, as opposed to formal languages used in programming |
+| AGI | 通用人工智能 | AI that can perform any intellectual task at a human level (not yet achieved) |
+| ASI | 超级人工智能 | AI that surpasses human intelligence in every respect (theoretical) |
+| Token | 词元 | a basic unit of text processed by LLMs (a word or sub-word piece) |
+| Hallucination | 幻觉 | a model producing fluent but incorrect or fabricated information |
+| Model drift | 模型漂移 | the decline of a model's accuracy as the real world changes over time |
+| Foundation model | 基础模型 | a large pre-trained model that can be adapted to many downstream tasks |
+
+## G2 · Week 2 LLM 术语
+
+| 术语 Term | 中文 | English Definition |
+|---|---|---|
+| LLM | 大语言模型 | a very large deep learning model pre-trained on vast amounts of text |
+| Transformer | 变换器架构 | the 2017 neural architecture based on self-attention that underlies nearly all modern LLMs |
+| Self-attention | 自注意力 | a mechanism that identifies and analyses relationships between elements in an input sequence |
+| Multi-head attention | 多头注意力 | multiple attention heads running in parallel, each with its own Q/K/V weight matrices |
+| Embedding | 嵌入（向量） | a numerical (vector) representation of a real-world object that AI systems use to understand complex knowledge domains |
+| Logits | 逻辑值 | the raw, unnormalized output values of a model before any probability transformation |
+| Softmax | 归一化指数函数 | a function that converts logits into probabilities that sum to 1 |
+| Temperature | 温度 | a sampling constant that adjusts logits before softmax; lower values give more deterministic output |
+| Top-k sampling | Top-k 采样 | sampling only from the k highest-probability tokens |
+| Top-p (nucleus) sampling | Top-p（核）采样 | sampling from the smallest set of tokens whose cumulative probability exceeds p |
+| Beam search | 束搜索 | keeping several candidate sequences in parallel to trade accuracy against computational cost |
+| Autoregressive | 自回归 | generating text one token at a time, each token conditioned on all previous tokens |
+| Masked Language Modeling (MLM) | 掩码语言建模 | a training objective that predicts masked words (used by Encoder models such as BERT) |
+| Fine-tuning | 微调 | further training a pre-trained model on a smaller, domain-specific dataset |
+| Vocabulary | 词表 | the set of tokens a model can produce |
+| Context window | 上下文窗口 | the maximum amount of information that can fit in a single prompt |
+
+## G3 · Week 3 提示工程与批判性审视（含 Tutorial Week 3 十词 ★）
+
+| 术语 Term | 中文 | English Definition |
+|---|---|---|
+| ★ prompt | 提示词 | an instruction or question given to an AI system |
+| ★ generate | 生成 | to produce or create something |
+| ★ refine | 改进 | to make something better by changing small parts |
+| ★ source | 来源 | information, a text, video, report, or website used as evidence |
+| ★ verify | 核实 | to check whether something is accurate or reliable |
+| ★ bias | 偏见 | an unfair preference for or against a person, group, or idea |
+| ★ evidence | 证据 | facts, examples, statistics, or sources used to support a claim |
+| ★ claim | 断言 | a statement that may or may not be fully supported by evidence |
+| ★ tone | 语气 | the style or feeling of language, such as formal or friendly |
+| ★ iteration | 迭代 | repeating a process in order to improve the result |
+| Fact | 事实 | something that can be checked as true or false |
+| Opinion | 观点 | a belief, judgement, or interpretation |
+| Ethical risk | 伦理风险 | a possible harm or problem for people or society |
+| Chain-of-Thought (CoT) | 思维链 | prompting that provides intermediate reasoning steps to improve complex reasoning |
+| Emergent ability | 涌现能力 | a capability absent in small models but appearing unexpectedly as models scale up |
+| In-context learning | 上下文学习 | learning a new task from examples given in the prompt, without updating model parameters |
+| Zero/one/few-shot | 零/单/少样本 | prompting with no / one / a few examples of the task |
+| Self-consistency | 自洽性 | generating diverse reasoning paths and selecting the most consistent answer |
+| Tree of Thoughts (ToT) | 思维树 | a framework exploring multiple branches of intermediate "thoughts" |
+| ReAct | 推理-行动框架 | a technique combining reasoning (thought) and acting (tool calls) with observations |
+| Prompt injection | 提示注入 | an attack inserting malicious instructions into a prompt to override a model's intended behaviour |
+| Jailbreaking | 越狱 | a technique to remove or bypass an AI system's built-in safeguards |
+| System prompt | 系统提示 | a set of instructions given to an LLM before any user input to guide its behaviour |
+
+## G4 · Week 4 安全与伦理
+
+| 术语 Term | 中文 | English Definition |
+|---|---|---|
+| AI Safety | 人工智能安全 | an interdisciplinary field concerned with preventing accidents, misuse, or other harmful consequences of AI systems |
+| AI alignment | 人工智能对齐 | technical work aiming to make AI systems moral and beneficial |
+| Bias | 偏差 | the systematic error between predicted values and the true values |
+| Variance | 方差 | a model's sensitivity to noise in the training data, often leading to overfitting |
+| Black-box problem | 黑盒问题 | the difficulty or impossibility for humans to understand a complex model's internal decision-making |
+| Transparency | 透明度 | the openness and accessibility of information about a system (system level) |
+| Interpretability | 可解释性 | how directly a model's internal mechanisms can be understood (model level) |
+| Explainability | 可解释说明 | how well a model's behaviour can be described or justified to humans (user level) |
+| Misinformation | 虚假信息 | false information that spreads when a hallucinated output is repeated |
+| Deepfake | 深度伪造 | synthetic image, audio or video content that fabricates evidence |
+| Provenance | 溯源 | establishing where content came from (e.g. watermarking, C2PA Content Credentials) |
+| Guardrail | 护栏 | a safety layer that validates inputs and outputs (e.g. word filters, content filters) |
+| Model card | 模型卡 | a short document stating a model's intended use, out-of-scope use, evaluation data and known limitations |
+| Red teaming | 红队测试 | deliberately attacking one's own application to find vulnerabilities before release |
+| RLHF | 基于人类反馈的强化学习 | Reinforcement Learning from Human Feedback — training that aligns a model with human values |
+| Data poisoning | 数据投毒 | intentionally introducing malicious or biased data into training to distort model outputs |
+| Risk-based approach | 基于风险的方法 | regulating AI systems according to their risk level (as in the EU AI Act) |
+| Accountability | 问责 | clarity about who reviews, approves, and takes responsibility for AI outcomes |
+
+## G5 · Week 5 RAG（含 Tutorial Week 5 十二词 ★，带音标）
+
+| 术语 Term | 中文 | English Definition |
+|---|---|---|
+| ★ Retrieval /rɪˈtriːvəl/ | 检索 | the act of accessing information previously encoded and stored in memory |
+| ★ Augmented /ɔːɡˈmentɪd/ | 增强的 | enhanced or improved by adding something |
+| ★ Latency /ˈleɪ.tən.si/ | 延迟 | the delay between a request and the corresponding response |
+| ★ Accuracy /ˈækjərəsi/ | 准确度 | how close a measurement is to the true value |
+| ★ Synthesis /ˈsɪnθəsɪs/ | 综合 | the combination of ideas or elements to form a new, more complex theory or system |
+| ★ Relevance /ˈreləvəns/ | 相关性 | how closely connected something is to the topic |
+| ★ Contextual /kənˈtekstʃuəl/ | 与上下文相关的 | depending on or relating to the circumstances or setting surrounding a piece of information |
+| ★ Semantic /sɪˈmæntɪk/ | 语义的 | having to do with the meaning of words or language |
+| ★ Query /ˈkwɪəri/ | 查询 | a question or request (to ask a question) |
+| ★ Vector /ˈvektə/ | 向量 | a list of numbers representing data in a multi-dimensional space |
+| ★ Chunking /ˈtʃʌŋkɪŋ/ | 分块 | breaking down large pieces of data into smaller, more manageable units |
+| ★ Ethical /ˈeθɪkəl/ | 伦理的 | having to do with morals, values, right and wrong |
+| RAG | 检索增强生成 | Retrieval-Augmented Generation — a method that enhances LLM accuracy by retrieving relevant external information and integrating it into generation |
+| Knowledge base | 知识库 | the indexed corpus of documents that RAG retrieves from |
+| BM25 | BM25 算法 | a sparse keyword-retrieval scoring function based on term frequency and inverse document frequency, adjusted for document length |
+| Cosine similarity | 余弦相似度 | a measure of alignment between vectors used for semantic retrieval |
+| Reranker | 重排器 | a (usually more expensive) model that re-scores retrieved candidates for precision |
+| Negative rejection | 负向拒绝 | the ability to refuse to answer when the knowledge base contains no relevant information |
+| Noise robustness | 抗噪声性 | the ability to separate noisy, irrelevant documents from relevant ones |
+| Information integration | 信息整合 | the ability to assimilate information from multiple documents |
+| Counterfactual robustness | 反事实鲁棒性 | the ability to reject known inaccuracies in retrieved information |
+| Retrieval failure / Generation failure | 检索失败 / 生成失败 | the evidence was not retrieved / the evidence was retrieved but ignored, distorted or invented by the LLM |
+
+## G6 · Week 6 Agentic AI
+
+| 术语 Term | 中文 | English Definition |
+|---|---|---|
+| Agentic AI | 智能体式人工智能 | an AI-enabled system that pursues a goal by selecting and taking actions in an environment while reflecting on memory and feedback |
+| Agent | 智能体 | (philosophy) an entity that possesses desires, beliefs, intentions, and the ability to act |
+| Autonomy | 自主性 | operating without direct human intervention and holding a degree of control over one's actions |
+| Reactivity | 反应性 | responding rapidly to immediate changes and stimuli in the environment |
+| Pro-activeness | 主动性 | taking the initiative in a goal-oriented way |
+| Social ability | 社交能力 | interacting with other agents, including humans, through language |
+| Tool use | 工具使用 | calling external tools, APIs or functions to act on the world |
+| MCP | 模型上下文协议 | Model Context Protocol — a standardized interface for tool access and use |
+| Computer use | 计算机使用 | agents directly interacting with real computer interfaces (clicks, typing) |
+| Thought-Action-Observation | 思考-行动-观察 | the ReAct loop of reasoning, acting and observing results |
+| Long-term memory | 长期记忆 | memories scored by a combination of recency, importance and relevance |
+| Reflection | 反思 | asking the LLM for higher-level insights over stored memories |
+| Multi-agent cooperation | 多智能体协作 | specialized agents solving complex tasks through natural-language conversation |
+| Least privilege | 最小权限 | granting an agent only the permissions necessary for its task |
+| Memory poisoning | 记忆投毒 | contaminating an agent's long-term memory with malicious information |
+| Human-in/on-the-loop | 人在回路 | keeping humans able to approve or override high-impact decisions |
+
+## G7 · Week 8 语音与创意 AI
+
+| 术语 Term | 中文 | English Definition |
+|---|---|---|
+| ASR | 自动语音识别 | Automatic Speech Recognition — converting speech into text |
+| NLU | 自然语言理解 | Natural Language Understanding — mapping words to intent and information slots |
+| DM | 对话管理 | Dialogue Management — choosing the next response or action |
+| NLG | 自然语言生成 | Natural Language Generation — generating spoken or written replies |
+| TTS | 语音合成 | Text-to-Speech — converting text into spoken audio |
+| Intent | 意图 | the goal behind a user's utterance |
+| Slot | 槽位 | a piece of information extracted from an utterance |
+| Pain point | 痛点 | delays, repeated work, errors, uncertainty or accessibility barriers in a task |
+| Human-centred design | 以人为本设计 | design that starts with users, tasks and context (ISO 9241-210) |
+| Creative process | 创意过程 | problem framing → generating ideas → evaluating ideas → implementing ideas |
+| Co-creation | 共创 | users steering and editing the AI's output |
+| Appropriate trust | 恰当信任 | knowing when users should double-check results |
+| Generative variability | 生成多样性 | giving people the ability to explore different answers |
+| Mental model | 心智模型 | users' understanding of what an AI can and cannot do |
+
+## G8 · Week 9 人本设计与评估
+
+| 术语 Term | 中文 | English Definition |
+|---|---|---|
+| Double Diamond | 双钻模型 | a design process of four stages: Discover, Define, Develop, Deliver |
+| Affinity mapping | 亲和图法 | grouping coded evidence into themes during analysis |
+| Formative evaluation | 形成性评估 | finding problems so the design can improve |
+| Summative evaluation | 总结性评估 | assessing how well a design meets its goals |
+| Utility | 效用 | whether the functionality meets the user's needs |
+| Usability | 可用性 | how easy and pleasant the functions are to use |
+| Learnability | 可学习性 | how easy first use is |
+| Efficiency | 效率 | how fast use is after learning |
+| Memorability | 可记忆性 | how easy it is to return to use after a gap |
+| Errors | 错误 | what goes wrong and whether users can recover |
+| Satisfaction | 满意度 | how pleasant use is |
+| Effectiveness | 有效性 | how accurately and completely users achieve their goals (ISO 9241-11) |
+| SUS | 系统可用性量表 | System Usability Scale — a 10-item questionnaire with a composite score from 0 to 100 (a scale score, not a percentage) |
+| PU / PEOU | 感知有用性 / 感知易用性 | Perceived Usefulness / Perceived Ease of Use — Davis's six-item scales |
+| Within-subjects | 组内设计 | the same participants experience all conditions |
+| Between-subjects | 组间设计 | different groups experience different conditions |
+| Carry-over effect | 遗留效应 | one condition influencing performance on the next |
+| Counterbalancing | 平衡设计 | varying the order of conditions across participants to offset order effects |
+| Think-aloud | 出声思考 | participants verbalize their thinking while using an interface |
+| Paper prototype | 纸面原型 | a low-fidelity prototype used for early testing |
+| Focus group | 焦点小组 | a moderated discussion in which participants respond to one another's experiences |
+
+## G9 · 反思写作高频词（Part 2 写作必用）
+
+| 术语 Term | 中文 | English Definition |
+|---|---|---|
+| Reflection / reflective writing | 反思写作 | writing that critically evaluates personal experience and connects it to broader themes |
+| What? / So What? / Now What? | 三段式反思模型 | a framework describing what happened, analysing its significance, and planning future application |
+| Challenge | 挑战 | a difficulty or problem faced during a task |
+| Insight | 见解 | a new and deeper understanding gained from experience |
+| Takeaway | 收获 | a key lesson carried away from an experience |
+| Bridge theory and practice | 连接理论与实践 | connecting abstract concepts to concrete, hands-on work |
+| Evidence-based decision | 基于证据的决策 | a decision supported by observations, tests or data rather than intuition |

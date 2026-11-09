@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/ISA104/Note/ICT 复习笔记.md",
+                "file": "CST/CSI101/Note/ICT 知识点梳理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICT 复习笔记"
+              "title": "ICT 知识点梳理"
             }
           }
         ],
@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.7281494140625
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,12 +223,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "84ec52a8dcf8fde3",
+  "active": "ee99017d428ad852",
   "lastOpenFiles": [
+    "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/CSI101/Note/ICT 知识点梳理.md",
     "CST/ISA104/Mock/ISA104 ICT 模拟（20题MCQ+写作模板）.md",
     "CST/ISA104/Mock",
-    "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/ISA104/Note",
     "CST/CSI101/Mock/CSI101 ICT 完整模拟卷（W1-W9）.md",
     "CST/CSI101/Lecture/CSI101-L09 Cache Disk and Viritual Memory.pdf",
