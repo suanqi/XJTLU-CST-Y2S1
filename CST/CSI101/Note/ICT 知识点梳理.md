@@ -70,15 +70,22 @@ course: CSI101 Computer Systems
 | **Registers 寄存器** | CPU 内部极小的快速存储 |
 
 ### 2.2 五个关键寄存器 Five registers（取指-译码-执行用）
-| 寄存器 | 作用 |
-|---|---|
-| PC（program counter） | 下一条指令的地址，随执行递增 |
-| MAR（memory address register） | 正要访问的内存地址 |
-| MDR（memory data register） | 从内存取回的数据 |
-| CIR（current instruction register） | 正在执行的指令 |
-| Acc（accumulator） | 运算结果暂存 |
+| 寄存器                               | 作用             |
+| --------------------------------- | -------------- |
+| PC（program counter）               | 下一条指令的地址，随执行递增 |
+| MAR（memory address register）      | 正要访问的内存地址      |
+| MDR（memory data register）         | 从内存取回的数据       |
+| CIR（current instruction register） | 正在执行的指令        |
+| Acc（accumulator）                  | 运算结果暂存         |
 
 > 寄存器 vs 内存：寄存器在 CPU 内部、几十个、<1 ns；内存在主板上、上亿单元、50–100 ns（约慢百倍）。
+>
+> **❓ 为什么这里不是 EAX、EBX、ECX？**（易混淆点）
+> 这是**两套不同层次的寄存器**：
+> - 本节的 PC/MAR/MDR/CIR/Acc 是 **CPU 内部概念模型**的寄存器（L02 讲「指令如何被执行」时用）；
+> - 3.2 节的 **EAX/EBX/ECX/EDX/ESI/EDI/EBP/ESP** 是 **x86 程序员可见**的通用寄存器（L03–04 写汇编时用）。
+> - 对应关系：PC 在 x86 上的真名是 **EIP**（指令指针）；**Acc 的角色由 EAX 承担**；而 **MAR、MDR、CIR 是 CPU 内部硬件寄存器，程序员看不见也写不了**。
+> - 考试：L02 考 PC/MAR/MDR/CIR 概念；L03–04 考 EAX/EBX 等编程寄存器。
 
 ### 2.3 取指-译码-执行循环 Fetch-Decode-Execute cycle（机器周期）
 1. **Fetch**：PC → MAR → 地址总线 → 内存 → 数据总线 → MDR → **CIR**；PC 递增
