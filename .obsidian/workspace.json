@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -216,7 +217,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ee99017d428ad852",
+  "active": "201b19be6026e5ae",
   "lastOpenFiles": [
     "CST/CSI101/Note/期末复习/W1 计算机系统导论.md",
     "CST/SOE104/Group Project/SOE104 作业理解与五人分工.md",
