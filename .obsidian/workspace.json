@@ -11,12 +11,14 @@
             "id": "201b19be6026e5ae",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CST/SOE104/Group Project/mermaid-diagram (2).png"
+                "file": "CST/SOE104/Group Project/SOE104 作业理解与五人分工.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "mermaid-diagram (2)"
+              "icon": "lucide-file",
+              "title": "SOE104 作业理解与五人分工"
             }
           }
         ]
@@ -81,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -199,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,6 +220,7 @@
   "active": "201b19be6026e5ae",
   "lastOpenFiles": [
     "CST/SOE104/Group Project/mermaid-diagram.png",
+    "CST/SOE104/Group Project/SOE104 作业理解与五人分工.md",
     "CST/SOE104/Group Project/mermaid-diagram (2).png",
     "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
     "CST/SOE104/Group Project/chatgpt 梳理截图.png",
@@ -258,7 +263,6 @@
     "CST/EEE104/Note/EEE104 复习笔记 Part 1 数制与逻辑门.md",
     "CST/CSI101/Mock/CSI101 ICT 模拟卷（填空版）.md",
     "CST/EEE103/Mock/EEE103 期中模拟试卷（英文版）.md",
-    "CST/EEE103/Mock/EEE103 选择题模拟卷（英文版）.md",
-    "CST/EEE103/Note/Week5 运算放大器.md"
+    "CST/EEE103/Mock/EEE103 选择题模拟卷（英文版）.md"
   ]
 }
