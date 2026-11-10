@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -184,7 +185,7 @@
                     },
                     {
                       "tabId": "tab-1794229710711-09fjpp4",
-                      "conversationId": "conv-1793686447962-3a6gevu01"
+                      "conversationId": "conv-1794304678301-uo8md2am2"
                     }
                   ],
                   "activeTabId": "tab-1794229710711-09fjpp4"
@@ -199,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 426.46490478515625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,6 +216,8 @@
   },
   "active": "201b19be6026e5ae",
   "lastOpenFiles": [
+    "_tmp_viewer.js",
+    "_tmp_share.json",
     "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
     "CST/SOE104/Group Project/mermaid-diagram (2).png",
     "CST/SOE104/Group Project/mermaid-diagram.png",
@@ -247,7 +249,6 @@
     "CST/SOE104/Group Project/API_REFERENCE.pdf",
     "CST/SOE104/Group Project/SOE104-CW2-Tasksheet.pdf",
     "CST/SOE104/Group Project/SOE104-CW2-Tasksheet.pdf.crdownload",
-    "CST/SOE104/Group Project",
     "CST/CSI101/Mock/CSI101 ICT 完整模拟卷（W1-W9）.md",
     "CST/EEE104/Note/EEE104 复习笔记 Part 3 时序电路.md",
     "CST/EEE104/Note/EEE104 复习笔记 Part 2 布尔代数与组合逻辑.md",
