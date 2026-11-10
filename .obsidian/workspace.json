@@ -11,14 +11,12 @@
             "id": "201b19be6026e5ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
-                "mode": "source",
-                "source": false
+                "file": "CST/SOE104/Group Project/mermaid-diagram (2).png"
               },
-              "icon": "lucide-file",
-              "title": "SOE104 第一次小组会议_项目概要"
+              "icon": "lucide-image",
+              "title": "mermaid-diagram (2)"
             }
           }
         ]
@@ -216,8 +214,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ee99017d428ad852",
+  "active": "201b19be6026e5ae",
   "lastOpenFiles": [
+    "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
+    "CST/SOE104/Group Project/mermaid-diagram (2).png",
+    "CST/SOE104/Group Project/mermaid-diagram.png",
     "CST/CSI101/Note/期末复习/W2 处理器.md",
     "CST/ISA104/In class test/dataset-EngiMate－通用工程项目方法库-1794229868843.tar.gz",
     "CST/ISA104/In class test/EngiMate_a3_20261109211107.zip",
@@ -237,7 +238,6 @@
     "CST/ISA104/Mock/ISA104 ICT 模拟卷二（Set B 20题+答案）.md",
     "CST/ISA104/Mock/ISA104 ICT 模拟卷四（Set D 20题+答案）.md",
     "CST/ISA104/Mock/ISA104 ICT 模拟卷三（Set C 20题+答案）.md",
-    "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
     "CST/CSI101/Note/ICT 知识点梳理.md",
     "CST/CSI101/Note/Lab 教学版 汇编练习.md",
     "CST/SOE104/Group Project/How marks are computed.png",
@@ -260,8 +260,6 @@
     "CST/EEE103/Mock/EEE103 选择题模拟卷（英文版）.md",
     "CST/EEE103/Note/Week5 运算放大器.md",
     "CST/EEE103/Mock/assets/s_pulse.png",
-    "CST/EEE103/Mock/assets/s_norton.png",
-    "CST/EEE103/Mock/assets/s_noninverting.png",
-    "CST/EEE103/Mock/assets/s_mesh.png"
+    "CST/EEE103/Mock/assets/s_norton.png"
   ]
 }
