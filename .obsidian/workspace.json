@@ -11,12 +11,14 @@
             "id": "201b19be6026e5ae",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CST/SOE104/Group Project/mermaid-diagram (2).png"
+                "file": "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "mermaid-diagram (2)"
+              "icon": "lucide-file",
+              "title": "SOE104 第一次小组会议_项目概要"
             }
           }
         ]
@@ -81,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -200,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.46490478515625
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +218,13 @@
   },
   "active": "201b19be6026e5ae",
   "lastOpenFiles": [
+    "CST/SOE104/Group Project/mermaid-diagram (2).png",
+    "_asset.png",
+    "CST/SOE104/Group Project/_probe_write.txt",
+    "_probe_pwsh2.txt",
+    "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
     "_tmp_viewer.js",
     "_tmp_share.json",
-    "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
-    "CST/SOE104/Group Project/mermaid-diagram (2).png",
     "CST/SOE104/Group Project/mermaid-diagram.png",
     "CST/CSI101/Note/期末复习/W2 处理器.md",
     "CST/ISA104/In class test/dataset-EngiMate－通用工程项目方法库-1794229868843.tar.gz",
@@ -246,9 +251,6 @@
     "CST/SOE104/Group Project/How to .png",
     "CST/SOE104/Group Project/2d34ac5f1c9212db7816ae580f1a2ef3.png",
     "CST/SOE104/Group Project/ENGINE_RULES_SPEC.pdf",
-    "CST/SOE104/Group Project/API_REFERENCE.pdf",
-    "CST/SOE104/Group Project/SOE104-CW2-Tasksheet.pdf",
-    "CST/SOE104/Group Project/SOE104-CW2-Tasksheet.pdf.crdownload",
     "CST/CSI101/Mock/CSI101 ICT 完整模拟卷（W1-W9）.md",
     "CST/EEE104/Note/EEE104 复习笔记 Part 3 时序电路.md",
     "CST/EEE104/Note/EEE104 复习笔记 Part 2 布尔代数与组合逻辑.md",
