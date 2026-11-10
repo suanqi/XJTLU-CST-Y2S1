@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/SOE104/Group Project/SOE104 作业理解与五人分工.md",
+                "file": "CST/CSI101/Note/期末复习/W1 计算机系统导论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOE104 作业理解与五人分工"
+              "title": "W1 计算机系统导论"
             }
           }
         ]
@@ -216,10 +216,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "201b19be6026e5ae",
+  "active": "ee99017d428ad852",
   "lastOpenFiles": [
-    "CST/SOE104/Group Project/SOE104-CW2-Tasksheet.pdf",
+    "CST/EEE104/Lecture/Lecture 14.pdf",
     "CST/SOE104/Group Project/SOE104 作业理解与五人分工.md",
+    "CST/SOE104/Group Project/SOE104-CW2-Tasksheet.pdf",
     "CST/SOE104/Group Project/mermaid-diagram.png",
     "CST/SOE104/Group Project/mermaid-diagram (2).png",
     "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
@@ -256,7 +257,6 @@
     "CST/CSI101/Note/ICT 知识点梳理.md",
     "CST/CSI101/Note/Lab 教学版 汇编练习.md",
     "CST/SOE104/Group Project/How marks are computed.png",
-    "CST/SOE104/Group Project/ENGINE_RULES_SPEC.pdf",
     "CST/CSI101/Mock/CSI101 ICT 完整模拟卷（W1-W9）.md",
     "CST/EEE104/Note/EEE104 复习笔记 Part 3 时序电路.md",
     "CST/EEE104/Note/EEE104 复习笔记 Part 2 布尔代数与组合逻辑.md",
