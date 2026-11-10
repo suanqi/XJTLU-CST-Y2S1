@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -219,8 +218,9 @@
   },
   "active": "201b19be6026e5ae",
   "lastOpenFiles": [
-    "CST/SOE104/Group Project/mermaid-diagram.png",
+    "CST/SOE104/Group Project/SOE104-CW2-Tasksheet.pdf",
     "CST/SOE104/Group Project/SOE104 作业理解与五人分工.md",
+    "CST/SOE104/Group Project/mermaid-diagram.png",
     "CST/SOE104/Group Project/mermaid-diagram (2).png",
     "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
     "CST/SOE104/Group Project/chatgpt 梳理截图.png",
