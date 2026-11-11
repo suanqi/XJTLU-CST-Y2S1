@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/CSI101/Note/期末复习/W9 Cache磁盘与虚拟内存.md",
+                "file": "CST/CSI101/Note/期末复习/W3-W4 汇编编程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W9 Cache磁盘与虚拟内存"
+              "title": "W3-W4 汇编编程"
             }
           }
         ],
@@ -231,6 +231,7 @@
   },
   "active": "ee99017d428ad852",
   "lastOpenFiles": [
+    "CST/CSI101/Note/期末复习/W2 处理器.md",
     "CST/CSI101/Note/期末复习/W1 计算机系统导论.md",
     "CST/CSI101/Note/期末复习/W9 Cache磁盘与虚拟内存.md",
     "CST/CSI101/Note/期末复习/W8 RAM与内存层次.md",
@@ -238,7 +239,6 @@
     "CST/CSI101/Note/期末复习/W5 高级语言与编译器.md",
     "CST/CSI101/Note/期末复习/W3-W4 汇编编程.md",
     "CST/ISA104/Note/ICT 复习笔记.md",
-    "CST/CSI101/Note/期末复习/W2 处理器.md",
     "CST/CSI101/Lecture/CSI101-L02 Processors.pdf",
     "CST/SOE104/Group Project/SOE104 作业理解与五人分工.md",
     "CST/EEE104/Lecture/Lecture 14.pdf",
