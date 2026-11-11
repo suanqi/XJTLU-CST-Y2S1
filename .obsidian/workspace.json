@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/CSI101/Note/期末复习/W6 二进制算术.md",
+                "file": "CST/CSI101/Note/期末复习/W9 Cache磁盘与虚拟内存.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W6 二进制算术"
+              "title": "W9 Cache磁盘与虚拟内存"
             }
           }
         ],
@@ -231,11 +231,11 @@
   },
   "active": "b0fc1581931c89dc",
   "lastOpenFiles": [
+    "CST/CSI101/Note/期末复习/W8 RAM与内存层次.md",
+    "CST/CSI101/Note/期末复习/W6 二进制算术.md",
     "CST/CSI101/Note/期末复习/W5 高级语言与编译器.md",
     "CST/CSI101/Note/期末复习/W3-W4 汇编编程.md",
     "CST/CSI101/Note/期末复习/W2 处理器.md",
-    "CST/CSI101/Note/期末复习/W8 RAM与内存层次.md",
-    "CST/CSI101/Note/期末复习/W6 二进制算术.md",
     "CST/CSI101/Note/期末复习/W1 计算机系统导论.md",
     "CST/CSI101/Note/期末复习/W9 Cache磁盘与虚拟内存.md",
     "CST/ISA104/Note/ICT 复习笔记.md",
