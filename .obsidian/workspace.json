@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/CSI101/Note/期末复习/W5 高级语言与编译器.md",
+                "file": "CST/CSI101/Note/期末复习/W6 二进制算术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W5 高级语言与编译器"
+              "title": "W6 二进制算术"
             }
           }
         ],
@@ -229,8 +229,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b0fc1581931c89dc",
+  "active": "ee99017d428ad852",
   "lastOpenFiles": [
+    "CST/CSI101/Note/期末复习/W5 高级语言与编译器.md",
     "CST/CSI101/Note/期末复习/W3-W4 汇编编程.md",
     "CST/ISA104/Note/ICT 复习笔记.md",
     "CST/CSI101/Note/期末复习/W2 处理器.md",
@@ -261,7 +262,6 @@
     "CST/CSI101/Note/期末复习/W9 Cache磁盘与虚拟内存.md",
     "CST/CSI101/Note/期末复习/W8 RAM与内存层次.md",
     "CST/CSI101/Note/期末复习/W6 二进制算术.md",
-    "CST/CSI101/Note/期末复习/W5 高级语言与编译器.md",
     "CST/ISA104/Mock/ISA104 ICT 模拟（20题MCQ+写作模板）.md",
     "CST/ISA104/Mock/ISA104 ICT 模拟卷二（Set B 20题+答案）.md",
     "CST/ISA104/Mock/ISA104 ICT 模拟卷四（Set D 20题+答案）.md",
