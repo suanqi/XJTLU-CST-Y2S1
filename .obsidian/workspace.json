@@ -11,12 +11,14 @@
             "id": "201b19be6026e5ae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CST/CSI101/Lecture/CSI101-L02 Processors.pdf"
+                "file": "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CSI101-L02 Processors"
+              "icon": "lucide-file",
+              "title": "SOE104 第一次小组会议_项目概要"
             }
           }
         ]
@@ -216,6 +218,8 @@
   },
   "active": "201b19be6026e5ae",
   "lastOpenFiles": [
+    "CST/CSI101/Lecture/CSI101-L02 Processors.pdf",
+    "file:C:/Users/lenovo/Desktop/G22/SOE104 第一次小组会议_项目概要.md",
     "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
     "file:C:/Users/lenovo/Desktop/G22/SOE104-strategy-guide.md",
     "CST/CSI101/Note/期末复习/W3-W4 汇编编程.md",
@@ -227,7 +231,6 @@
     "CST/CSI101/Note/期末复习/W5 高级语言与编译器.md",
     "CST/CSI101/Note/期末复习/W1 计算机系统导论.md",
     "CST/ISA104/Note/ICT 复习笔记.md",
-    "CST/CSI101/Lecture/CSI101-L02 Processors.pdf",
     "CST/SOE104/Group Project/SOE104 作业理解与五人分工.md",
     "CST/EEE104/Lecture/Lecture 14.pdf",
     "CST/SOE104/Group Project/SOE104-CW2-Tasksheet.pdf",
@@ -259,8 +262,6 @@
     "CST/EEE104/Note/EEE104 复习笔记 Part 3 时序电路.md",
     "CST/EEE104/Note/EEE104 复习笔记 Part 2 布尔代数与组合逻辑.md",
     "CST/EEE104/Note/EEE104 复习笔记 Part 1 数制与逻辑门.md",
-    "CST/CSI101/Mock/CSI101 ICT 模拟卷（填空版）.md",
-    "CST/EEE103/Mock/EEE103 期中模拟试卷（英文版）.md",
-    "CST/EEE103/Mock/EEE103 选择题模拟卷（英文版）.md"
+    "CST/CSI101/Mock/CSI101 ICT 模拟卷（填空版）.md"
   ]
 }
