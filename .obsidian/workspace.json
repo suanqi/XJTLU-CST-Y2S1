@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/ISA104/Note/ICT 复习笔记.md",
+                "file": "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICT 复习笔记"
+              "title": "Lecture 17 级联计数器·译码与应用"
             }
           }
         ]
@@ -219,8 +219,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "00b1974cee08869f",
+  "active": "201b19be6026e5ae",
   "lastOpenFiles": [
+    "CST/EEE104/Lecture/Lecture17g.pdf",
+    "CST/EEE104/Lecture/Lecture18_new.pdf",
+    "CST/EEE104/Lecture/Lecture19.pdf",
+    "CST/EEE104/Note/Lecture 18 移位寄存器.md",
+    "CST/ISA104/Note/ICT 复习笔记.md",
     "eee104_assets_stage/L19-p15.png",
     "eee104_assets_stage/L19-p14.png",
     "eee104_assets_stage/L19-p12.png",
@@ -231,13 +236,11 @@
     "eee104_assets_stage/L18-p22.png",
     "eee104_assets_stage/L18-p17.png",
     "eee104_assets_stage/L18-p14.png",
-    "eee104_assets_stage/L18-p13.png",
     "eee104_assets_stage",
     "eee104_test/x.txt",
     "eee104_test",
     "CST/SOE104/Group Project/SOE104 API 与引擎规则速查.md",
     "CST/EEE104/Note/Lecture 19 双向移位寄存器与移位计数器.md",
-    "CST/EEE104/Note/Lecture 18 移位寄存器.md",
     "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
     "CST/EEE104/Note/Lecture 16 同步计数器.md",
     "CST/EEE104/Note/Lecture 15 异步计数器.md",
@@ -256,16 +259,13 @@
     "CST/EEE104/Note/Lecture 02 二进制数与转换运算.md",
     "CST/EEE104/Note/Lecture 01 模拟量与数字量.md",
     "CST/EEE104/Note/00 EEE104 期末复习总览.md",
-    "CST/EEE104/Lecture/Lecture19.pdf",
     "CST/EEE104/Lecture/Lecture19.pdf.crdownload",
     "CST/EEE103/Tutorial/Tutorial_Solution-week9.pdf",
     "CST/EEE103/Tutorial/Tutorial_Exercise-week9.pdf",
     "CST/EEE103/Tutorial/Tutorial_Exercise-week9.pdf.crdownload",
     "CST/EEE103/Tutorial/Week9_Self-Practice_solution.pdf",
-    "CST/EEE103/Tutorial/Week9_Self-Practice_solution.pdf.crdownload",
     "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
     "file:C:/Users/lenovo/Desktop/G22/SOE104 第一次小组会议_项目概要.md",
-    "file:C:/Users/lenovo/Desktop/G22/SOE104-strategy-guide.md",
-    "CST/CSI101/Note/期末复习/W3-W4 汇编编程.md"
+    "file:C:/Users/lenovo/Desktop/G22/SOE104-strategy-guide.md"
   ]
 }
