@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.69628143310547
+    "width": 200
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -187,9 +187,13 @@
                     {
                       "tabId": "tab-1794229710711-09fjpp4",
                       "conversationId": "conv-1794304678301-uo8md2am2"
+                    },
+                    {
+                      "tabId": "tab-1794632839107-i17hcpm",
+                      "conversationId": "conv-1794632990045-43cxftsxs"
                     }
                   ],
-                  "activeTabId": "tab-1794229710711-09fjpp4"
+                  "activeTabId": "tab-1794632839107-i17hcpm"
                 }
               },
               "icon": "bot",
@@ -201,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 483.4825439453125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +219,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "201b19be6026e5ae",
+  "active": "00b1974cee08869f",
   "lastOpenFiles": [
     "CST/EEE104/Lecture/Lecture19.pdf",
     "CST/EEE104/Lecture/Lecture19.pdf.crdownload",
