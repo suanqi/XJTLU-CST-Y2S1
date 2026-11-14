@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/SOE104/Group Project/SOE104 API 与引擎规则速查.md",
+                "file": "CST/ISA104/Note/ICT 复习笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOE104 API 与引擎规则速查"
+              "title": "ICT 复习笔记"
             }
           }
         ]
@@ -221,6 +221,21 @@
   },
   "active": "00b1974cee08869f",
   "lastOpenFiles": [
+    "eee104_assets_stage/L19-p15.png",
+    "eee104_assets_stage/L19-p14.png",
+    "eee104_assets_stage/L19-p12.png",
+    "eee104_assets_stage/L19-p11.png",
+    "eee104_assets_stage/L19-p09.png",
+    "eee104_assets_stage/L19-p06.png",
+    "eee104_assets_stage/L19-p05.png",
+    "eee104_assets_stage/L18-p22.png",
+    "eee104_assets_stage/L18-p17.png",
+    "eee104_assets_stage/L18-p14.png",
+    "eee104_assets_stage/L18-p13.png",
+    "eee104_assets_stage",
+    "eee104_test/x.txt",
+    "eee104_test",
+    "CST/SOE104/Group Project/SOE104 API 与引擎规则速查.md",
     "CST/EEE104/Note/Lecture 19 双向移位寄存器与移位计数器.md",
     "CST/EEE104/Note/Lecture 18 移位寄存器.md",
     "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
@@ -248,24 +263,9 @@
     "CST/EEE103/Tutorial/Tutorial_Exercise-week9.pdf.crdownload",
     "CST/EEE103/Tutorial/Week9_Self-Practice_solution.pdf",
     "CST/EEE103/Tutorial/Week9_Self-Practice_solution.pdf.crdownload",
-    "CST/EEE103/Lecture/EEE103-Week9.pdf",
     "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
-    "CST/SOE104/Group Project/SOE104 API 与引擎规则速查.md",
-    "_engine.txt",
-    "_api.txt",
     "file:C:/Users/lenovo/Desktop/G22/SOE104 第一次小组会议_项目概要.md",
     "file:C:/Users/lenovo/Desktop/G22/SOE104-strategy-guide.md",
-    "CST/CSI101/Note/期末复习/W3-W4 汇编编程.md",
-    "CST/CSI101/Note/期末复习/W2 处理器.md",
-    "CST/SOE104/Group Project/mermaid-diagram.png",
-    "CST/SOE104/Group Project/mermaid-diagram (2).png",
-    "CST/SOE104/Group Project/chatgpt 梳理截图.png",
-    "CST/SOE104/Group Project/SOE104 成员行动选择.png",
-    "CST/SOE104/Group Project/SOE104 游戏流程全图.png",
-    "_flow1.png",
-    "_flow2.png",
-    "_test_mm.png",
-    "_asset.png",
-    "CST/SOE104/Group Project/How marks are computed.png"
+    "CST/CSI101/Note/期末复习/W3-W4 汇编编程.md"
   ]
 }
