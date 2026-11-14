@@ -221,6 +221,9 @@
   },
   "active": "00b1974cee08869f",
   "lastOpenFiles": [
+    "CST/EEE104/Note/Lecture 02 二进制数与转换运算.md",
+    "CST/EEE104/Note/Lecture 01 模拟量与数字量.md",
+    "CST/EEE104/Note/00 EEE104 期末复习总览.md",
     "CST/EEE104/Lecture/Lecture19.pdf",
     "CST/EEE104/Lecture/Lecture19.pdf.crdownload",
     "CST/EEE103/Tutorial/Tutorial_Solution-week9.pdf",
@@ -233,7 +236,6 @@
     "CST/SOE104/Group Project/SOE104 API 与引擎规则速查.md",
     "_engine.txt",
     "_api.txt",
-    "CST/CSI101/Lecture/CSI101-L02 Processors.pdf",
     "file:C:/Users/lenovo/Desktop/G22/SOE104 第一次小组会议_项目概要.md",
     "file:C:/Users/lenovo/Desktop/G22/SOE104-strategy-guide.md",
     "CST/CSI101/Note/期末复习/W3-W4 汇编编程.md",
@@ -264,8 +266,6 @@
     "CST/CSI101/Note/Lab 教学版 汇编练习.md",
     "CST/SOE104/Group Project/How marks are computed.png",
     "CST/CSI101/Mock/CSI101 ICT 完整模拟卷（W1-W9）.md",
-    "CST/EEE104/Note/EEE104 复习笔记 Part 3 时序电路.md",
-    "CST/EEE104/Note/EEE104 复习笔记 Part 2 布尔代数与组合逻辑.md",
-    "CST/EEE104/Note/EEE104 复习笔记 Part 1 数制与逻辑门.md"
+    "CST/EEE104/Note/EEE104 复习笔记 Part 3 时序电路.md"
   ]
 }
