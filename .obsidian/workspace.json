@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -221,8 +220,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "201b19be6026e5ae",
+  "active": "ee99017d428ad852",
   "lastOpenFiles": [
+    "CST/EEE104/Lecture/Lecture19.pdf",
+    "CST/EEE104/Note/Lecture 11 加法器与比较器（教材补充）.md",
     "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
     "CST/EEE104/Note/assets/L19-p15.png",
     "CST/EEE104/Note/assets/L19-p14.png",
@@ -238,7 +239,6 @@
     "CST/EEE104/Note/eee104_assets_stage",
     "CST/EEE104/Lecture/Lecture17g.pdf",
     "CST/EEE104/Lecture/Lecture18_new.pdf",
-    "CST/EEE104/Lecture/Lecture19.pdf",
     "CST/EEE104/Note/Lecture 18 移位寄存器.md",
     "CST/ISA104/Note/ICT 复习笔记.md",
     "eee104_assets_stage",
@@ -251,7 +251,6 @@
     "CST/EEE104/Note/Lecture 14 边沿触发器.md",
     "CST/EEE104/Note/Lecture 13 锁存器.md",
     "CST/EEE104/Note/Lecture 12 译码编码与数据选择（教材补充）.md",
-    "CST/EEE104/Note/Lecture 11 加法器与比较器（教材补充）.md",
     "CST/EEE104/Note/Lecture 10 卡诺图化简.md",
     "CST/EEE104/Note/Lecture 09 SOP与POS标准形式.md",
     "CST/EEE104/Note/Lecture 08 组合逻辑与通用门.md",
