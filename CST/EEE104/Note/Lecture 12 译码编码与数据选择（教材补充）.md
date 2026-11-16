@@ -52,7 +52,7 @@ $$Y = \bar S_1\bar S_0 D_0 + \bar S_1 S_0 D_1 + S_1\bar S_0 D_2 + S_1 S_0 D_3$$
 
 ## 自测 Checklist
 
-- [ ] 译码器：n→$2^n$、唯一 1 输出；2–4 译码器四个输出表达式 Decoder
-- [ ] 编码器：一次一个输入；优先级编码器行为 Encoder & priority encoder
-- [ ] 4 选 1 MUX 输出表达式 $Y=\bar S_1\bar S_0D_0+\dots+S_1S_0D_3$ MUX expression
-- [ ] DEMUX = 译码器 + 使能；四器件功能对比表 Four devices comparison
+- [x] 译码器：n→$2^n$、唯一 1 输出；2–4 译码器四个输出表达式 Decoder
+- [x] 编码器：一次一个输入；优先级编码器行为 Encoder & priority encoder
+- [x] 4 选 1 MUX 输出表达式 $Y=\bar S_1\bar S_0D_0+\dots+S_1S_0D_3$ MUX expression
+- [x] DEMUX = 译码器 + 使能；四器件功能对比表 Four devices comparison

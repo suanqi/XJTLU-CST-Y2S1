@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/EEE104/Note/Lecture 12 译码编码与数据选择（教材补充）.md",
+                "file": "CST/EEE104/Note/Lecture 13 锁存器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 12 译码编码与数据选择（教材补充）"
+              "title": "Lecture 13 锁存器"
             }
           }
         ]
@@ -222,6 +222,7 @@
   },
   "active": "201b19be6026e5ae",
   "lastOpenFiles": [
+    "CST/EEE104/Note/Lecture 12 译码编码与数据选择（教材补充）.md",
     "CST/EEE104/Note/Lecture 11 加法器与比较器（教材补充）.md",
     "CST/EEE104/Lecture/Lecture19.pdf",
     "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
@@ -250,7 +251,6 @@
     "CST/EEE104/Note/Lecture 15 异步计数器.md",
     "CST/EEE104/Note/Lecture 14 边沿触发器.md",
     "CST/EEE104/Note/Lecture 13 锁存器.md",
-    "CST/EEE104/Note/Lecture 12 译码编码与数据选择（教材补充）.md",
     "CST/EEE104/Note/Lecture 10 卡诺图化简.md",
     "CST/EEE104/Note/Lecture 09 SOP与POS标准形式.md",
     "CST/EEE104/Note/Lecture 08 组合逻辑与通用门.md",
