@@ -59,7 +59,7 @@ $$\Sigma = A \oplus B \oplus C_{in}, \qquad C_{out} = AB + (A \oplus B)\,C_{in}$
 
 ## 自测 Checklist
 
-- [ ] 半加器：$\Sigma = A\oplus B$、$C_{out} = AB$ 及其真值表 Half adder
-- [ ] 全加器：$\Sigma = A\oplus B\oplus C_{in}$、$C_{out}=AB+(A\oplus B)C_{in}$ Full adder
-- [ ] 串行进位加法器结构（n 个全加器级联、进位传递）Ripple carry adder
-- [ ] 比较器：1 位（$\odot$、$A\bar B$、$\bar A B$）；多位从最高位起比较 Comparator
+- [x] 半加器：$\Sigma = A\oplus B$、$C_{out} = AB$ 及其真值表 Half adder
+- [x] 全加器：$\Sigma = A\oplus B\oplus C_{in}$、$C_{out}=AB+(A\oplus B)C_{in}$ Full adder
+- [x] 串行进位加法器结构（n 个全加器级联、进位传递）Ripple carry adder
+- [x] 比较器：1 位（$\odot$、$A\bar B$、$\bar A B$）；多位从最高位起比较 Comparator
