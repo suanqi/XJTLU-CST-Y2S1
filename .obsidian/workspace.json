@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
+                "file": "CST/EEE104/Note/Lecture 11 加法器与比较器（教材补充）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 17 级联计数器·译码与应用"
+              "title": "Lecture 11 加法器与比较器（教材补充）"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c16c3722a219e0da",
@@ -205,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.4825439453125
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +221,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "00b1974cee08869f",
+  "active": "201b19be6026e5ae",
   "lastOpenFiles": [
+    "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
     "CST/EEE104/Note/assets/L19-p15.png",
     "CST/EEE104/Note/assets/L19-p14.png",
     "CST/EEE104/Note/assets/L19-p12.png",
@@ -231,7 +234,6 @@
     "CST/EEE104/Note/assets/L18-p22.png",
     "CST/EEE104/Note/assets/L18-p17.png",
     "CST/EEE104/Note/assets/L18-p14.png",
-    "CST/EEE104/Note/assets/L18-p13.png",
     "CST/EEE104/Note/assets",
     "CST/EEE104/Note/eee104_assets_stage",
     "CST/EEE104/Lecture/Lecture17g.pdf",
@@ -244,7 +246,6 @@
     "eee104_test",
     "CST/SOE104/Group Project/SOE104 API 与引擎规则速查.md",
     "CST/EEE104/Note/Lecture 19 双向移位寄存器与移位计数器.md",
-    "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
     "CST/EEE104/Note/Lecture 16 同步计数器.md",
     "CST/EEE104/Note/Lecture 15 异步计数器.md",
     "CST/EEE104/Note/Lecture 14 边沿触发器.md",
