@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/EEE104/Note/Lecture 14 边沿触发器.md",
+                "file": "CST/CSI101/Note/期末复习/W5 高级语言与编译器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 14 边沿触发器"
+              "title": "W5 高级语言与编译器"
             }
           }
         ]
@@ -222,6 +222,10 @@
   },
   "active": "201b19be6026e5ae",
   "lastOpenFiles": [
+    "CST/CSI101/Note/期末复习/W3-W4 汇编编程.md",
+    "CST/CSI101/Note/期末复习/W2 处理器.md",
+    "CST/CSI101/Note/期末复习/W1 计算机系统导论.md",
+    "CST/EEE104/Note/Lecture 14 边沿触发器.md",
     "CST/EEE104/Note/Lecture 13 锁存器.md",
     "CST/EEE104/Note/Lecture 12 译码编码与数据选择（教材补充）.md",
     "CST/EEE104/Note/Lecture 11 加法器与比较器（教材补充）.md",
@@ -250,7 +254,6 @@
     "CST/EEE104/Note/Lecture 19 双向移位寄存器与移位计数器.md",
     "CST/EEE104/Note/Lecture 16 同步计数器.md",
     "CST/EEE104/Note/Lecture 15 异步计数器.md",
-    "CST/EEE104/Note/Lecture 14 边沿触发器.md",
     "CST/EEE104/Note/Lecture 10 卡诺图化简.md",
     "CST/EEE104/Note/Lecture 09 SOP与POS标准形式.md",
     "CST/EEE104/Note/Lecture 08 组合逻辑与通用门.md",
@@ -264,8 +267,6 @@
     "CST/EEE104/Note/00 EEE104 期末复习总览.md",
     "CST/EEE104/Lecture/Lecture19.pdf.crdownload",
     "CST/EEE103/Tutorial/Tutorial_Solution-week9.pdf",
-    "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md",
-    "file:C:/Users/lenovo/Desktop/G22/SOE104 第一次小组会议_项目概要.md",
-    "file:C:/Users/lenovo/Desktop/G22/SOE104-strategy-guide.md"
+    "CST/SOE104/Group Project/SOE104 第一次小组会议_项目概要.md"
   ]
 }
