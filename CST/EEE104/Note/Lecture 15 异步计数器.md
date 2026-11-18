@@ -94,7 +94,8 @@ course: EEE104 Digital Electronics (I)
 
 ## 4. 累积延迟 Cumulative Delay ⭐
 
-- **传播延迟**：输入作用后输出发生变化的时间间隔。
+- **传播延迟 Propagation delay**：输入作用后输出发生变化的时间间隔。
+  > *The propagation delay time is the time interval for the output to change after an input has been applied.*
 - 异步计数器各级延迟**相加（累积）**，限制最高时钟频率、造成译码问题（毛刺）。
 
 | IC | $t_{PHL}$ | $t_{PLH}$ |
@@ -104,6 +105,25 @@ course: EEE104 Digital Electronics (I)
 
 ![[EEE104/Note/assets/L15-p12.png|520]]
 > ▲ 累积传播延迟示意
+
+### 4.1 74HC74A vs 74LS74A：区别是什么？ What's the difference? ⭐
+
+> ⚠️ **课件说明范围**：Lecture15 只在上面这一页用两者的传播延迟数值举例，**没有展开 74HC74A 的内部结构**——全部 16 份课件中也仅此一处提及这两个型号。以下为**教材/数据手册补充**（Floyd & datasheet）。
+
+**共同点 Common**：两者都是 **74 系列"双 D 触发器"（dual D flip-flop）**——一个 14 脚封装里含**两个独立的正沿触发 D 触发器**，各带**异步预置 PRE 与异步清零 CLR**。型号解读：**74** = 商用级，**A** = 7474 的改进版。
+
+| 对比项 Item | **74HC74A**（CMOS） | **74LS74A**（TTL） |
+|---|---|---|
+| 工艺 Technology | 高速 CMOS（High-speed CMOS） | 低功耗肖特基 TTL（Low-power Schottky） |
+| 电源电压 VCC | **2–6 V**（范围宽，见 [[Lecture 06 晶体管与数字集成电路\|Lecture 06]] 的 $V_{CC}$ 表） | 5 V（TTL 标准 4.5–5.5 V） |
+| $t_{PHL}$（高→低） | **17 ns** ✅ 快 | 40 ns |
+| $t_{PLH}$（低→高） | **17 ns**（两向对称 symmetric） | 25 ns（不对称 asymmetric） |
+| 功耗 Power | **极低**（静态几乎为零，仅翻转瞬间耗电） | 较高（静态持续耗电） |
+| 输入阻抗 Input impedance | 极高（MOS 栅极，几乎不取电流） | 较低（需提供输入电流） |
+
+**在计数器语境下的意义 Meaning in this context**：
+- 异步计数器的总延迟 = 各级延迟**逐级相加**（累积），因此每级**越快、越对称**，允许的**最高时钟频率越高**；
+- 课件用这两个型号对比正是要说明：CMOS（HC）比 TTL（LS）**更快**，且 HC 的 $t_{PHL} \approx t_{PLH}$（高低跳变等时），更利于高速计数。
 
 ## 5. IC 异步计数器 74LS93A
 
@@ -124,5 +144,5 @@ course: EEE104 Digital Electronics (I)
 - [ ] 异步二进制计数器：J=K=1、级联接法、模 $2^n$ Ripple counter
 - [ ] 模数定义；decade（0000–1001、1010 复位）与部分译码（只检测 Q1Q3）Decade & partial decoding
 - [ ] 模 12（1100 复位，检测 Q2Q3）Modulus-12
-- [ ] 累积延迟：74HC74A/74LS74A 数据、限制时钟频率、译码毛刺 Cumulative delay
+- [ ] 累积延迟：74HC74A vs 74LS74A 区别（CMOS/TTL、2–6V/5V、17/17 vs 40/25 ns、功耗）；累积效应 → 限频、译码毛刺 Cumulative delay
 - [ ] 74LS93A：Q0→CLKB、NAND 译码复位、模 16/十进制/模 12 三种接法 74LS93A
