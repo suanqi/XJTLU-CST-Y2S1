@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
+                "file": "CST/EEE104/Note/Lecture 16 同步计数器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 17 级联计数器·译码与应用"
+              "title": "Lecture 16 同步计数器"
             }
           }
         ]
@@ -222,6 +222,7 @@
   },
   "active": "201b19be6026e5ae",
   "lastOpenFiles": [
+    "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
     "CST/EEE104/Note/Lecture 16 同步计数器.md",
     "CST/EEE104/Note/Lecture 15 异步计数器.md",
     "CST/EEE104/Note/Lecture 14 边沿触发器.md",
@@ -236,7 +237,6 @@
     "CST/EEE104/Note/Lecture 12 译码编码与数据选择（教材补充）.md",
     "CST/EEE104/Note/Lecture 11 加法器与比较器（教材补充）.md",
     "CST/EEE104/Lecture/Lecture19.pdf",
-    "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
     "CST/EEE104/Note/assets/L19-p15.png",
     "CST/EEE104/Note/assets/L19-p14.png",
     "CST/EEE104/Note/assets/L19-p12.png",
