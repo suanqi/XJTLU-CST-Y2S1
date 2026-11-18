@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CST/EEE104/Note/Lecture 16 同步计数器.md",
+                "file": "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 16 同步计数器"
+              "title": "Lecture 17 级联计数器·译码与应用"
             }
           }
         ]
@@ -222,8 +222,8 @@
   },
   "active": "201b19be6026e5ae",
   "lastOpenFiles": [
-    "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
     "CST/EEE104/Note/Lecture 16 同步计数器.md",
+    "CST/EEE104/Note/Lecture 17 级联计数器·译码与应用.md",
     "CST/EEE104/Note/Lecture 15 异步计数器.md",
     "CST/EEE104/Note/Lecture 14 边沿触发器.md",
     "CST/CSI101/Note/期末复习/W8 RAM与内存层次.md",
