@@ -24,7 +24,7 @@ course: EEE104 Digital Electronics (I)
 
 ## 2. 异步二进制计数器 Asynchronous Binary Counters
 
-- 所有触发器 **J=K=1**；FF0 由 CLK 触发，FF1 由 Q0 触发，FF2 由 Q1 触发……
+- 所有触发器 **J=K=1**；FF0  由 CLK 触发，FF1 由 Q0 触发，FF2 由 Q1 触发……
 - n 级 → **模 $2^n$**（计 0 ~ $2^n-1$）；负沿触发为加法计数。
 
 ![[EEE104/Note/assets/L15-p05.png|520]]
